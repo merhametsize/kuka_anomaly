@@ -1,3 +1,0 @@
-*.ipynb linguist-vendored
-# OR (to ignore entirely):
-# *.ipynb linguist-detectable=
